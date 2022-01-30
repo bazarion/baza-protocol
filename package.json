@@ -1,7 +1,6 @@
 {
-  "name": "@baza/protocol",
+  "name": "@bazarion/protocol",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +9,15 @@
   "license": "MIT",
   "dependencies": {
     "ethers": "^5.5.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bazarion/baza-protocol.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bazarion/baza-protocol/issues"
+  },
+  "homepage": "https://github.com/bazarion/baza-protocol#readme",
+  "description": ""
 }
